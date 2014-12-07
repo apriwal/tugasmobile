@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tugasmobile</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_k_one">About K-one</string>
+    <string name="title_activity_oke">OkeActivity</string>
+    <string name="title_activity_smile">About Smile</string>
+    <string name="smile1"> -Servis Handphone \n -Menjual Pulsa Dan Saldo \n -Menyediakan Aksesoris Berbagai Merek Handphone \n -DLL</string>
+	 <string name="smile2">Bertempat di WTC Batang Hari, di Lantai 3, \n Berdekatan dengan Q-Talk Sebrang nya</string>
+	<string name="oke1">Menjual Semua Jenis Merek HandPhone \n Cast dan Kredit </string>
+	<string name="oke2"> Bertempat Di WTC Batang Hari Di Lantai 1 Berdekatan Dengan Tangga Naik</string>
+	<string name="kone1">-Menjual aksesoris Handphone \n -Perlengkapan komputer</string>
+	<string name="kone2">Bertempat di Wtc Batang Hari, di lantai 3, \n Berdekatan dengan oppo store</string>
+</resources>
